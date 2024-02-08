@@ -40,5 +40,25 @@ This repository provides a survey on the applications of deep generative models 
 
 
 ##### 1.3 Offline Reinforcement Learning Papers
+* [ICML 2019] [Off-Policy Deep Reinforcement Learning without Exploration](http://proceedings.mlr.press/v97/fujimoto19a/fujimoto19a.pdf)
 * [CoRL 2023] [Action-Quantized Offline Reinforcement Learning for Robotic Skill Learning](https://proceedings.mlr.press/v229/luo23a/luo23a.pdf)
-* 
+* [AAAI 2022] [Constraints Penalized Q-learning for Safe Offline Reinforcement Learning](https://ojs.aaai.org/index.php/AAAI/article/view/20855)
+* [CoRL 2023] [Generalization with Lossy Affordances: Leveraging Broad Offline Data for Learning Visuomotor Tasks](https://proceedings.mlr.press/v205/fang23a/fang23a.pdf)
+* [IRAL 2022] [Hierarchical Planning Through Goal-Conditioned Offline Reinforcement Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9826807&casa_token=hG0zzkZ5t5cAAAAA:YbJettUnRFL2TaEkcLht0-hYtPM8IUFaKPvtG8V3_j-ikp6W9N1sAD8Q2uawkHL1NKDdWTwW&tag=1)
+* [CoRL 2020] [PLAS: Latent Action Space for Offline Reinforcement Learning](https://proceedings.mlr.press/v155/zhou21b/zhou21b.pdf)
+* [CoRL 2023] [Latent Plans for Task-Agnostic Offline Reinforcement Learning](https://proceedings.mlr.press/v205/rosete-beas23a/rosete-beas23a.pdf)
+* [Neurips 2022] [Mildly Conservative Q-Learning for Offline Reinforcement Learning](https://proceedings.neurips.cc/paper_files/paper/2022/file/0b5669c3b07bb8429af19a7919376ff5-Paper-Conference.pdf)
+* [Neurips 2021] [Offline Meta Reinforcement Learning – Identifiability Challenges and Effective Data Collection Strategies](https://proceedings.neurips.cc/paper_files/paper/2021/file/248024541dbda1d3fd75fe49d1a4df4d-Paper.pdf)
+* [AAAI 2022] [Offine Reinforcement Learning as Anti-exploration](https://ojs.aaai.org/index.php/AAAI/article/view/20783)
+* [Neurips 2021] [Offline Reinforcement Learning with Reverse Model-based Imagination](https://proceedings.neurips.cc/paper_files/paper/2021/file/f5e647292cc4e1064968ca62bebe7e47-Paper.pdf)
+* [IEEE TCDS 2023] [UAC: Offline Reinforcement Learning with Uncertain Action Constraint](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10158415&casa_token=QdkJztwbbyMAAAAA:jDUKJnQo7qZ-emdCrmWzAglYnhH3E68yXGVmY5-dFhv2LPGbr46O7Y2pM9Mic8y-gFpvXijm)
+* [ICLR 2021] [OPAL: OFFLINE PRIMITIVE DISCOVERY FOR ACCELERATING OFFLINE REINFORCEMENT LEARNING](https://openreview.net/pdf?id=V69LGwJ0lIN)
+* [Neurips 2022] [Supported Policy Optimization for Offline Reinforcement Learning](https://proceedings.neurips.cc/paper_files/paper/2022/file/caa934a507a952698d54efb24845fc4b-Paper-Conference.pdf)
+* [ACML 2021] [BRAC+: Improved Behavior Regularized Actor Critic for Offline Reinforcement Learning](https://proceedings.mlr.press/v157/zhang21a/zhang21a.pdf)
+* [ArXiv 2023] [On the Importance of the Policy Structure in Offline Reinforcement Learning](https://openreview.net/pdf?id=EJPWfoJRba)
+* [ICLR 2021] [Risk-Averse Offline Reinforcement Learning](https://openreview.net/pdf?id=TBIzh9b5eaz)
+* [IJCAI 2021] [Boosting Offline Reinforcement Learning with Residual Generative Modeling](https://www.ijcai.org/proceedings/2021/0492.pdf)
+* [CoRL 2023] [Expansive Latent Planning for Sparse Reward Offline Reinforcement Learning](https://proceedings.mlr.press/v229/gieselmann23a/gieselmann23a.pdf)
+* [L4DC 2021] [Offline Reinforcement Learning from Images with Latent Space Models](http://proceedings.mlr.press/v144/rafailov21a/rafailov21a.pdf)
+* [ICML 2022] [Koopman Q-learning: Offline Reinforcement Learning via Symmetries of Dynamics](https://proceedings.mlr.press/v162/weissenbacher22a/weissenbacher22a.pdf)
+* [ICCAS 2022] [Selective Data Augmentation for Improving the Performance of Offline Reinforcement Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10003747&casa_token=YfeS2Qp4l8sAAAAA:dPm8kLzIFuruHDbm-IagrTbBlvx3HvqH0aD3Xox2uITApexQMSE66uxCMLmwHYTv-a61snK_)
