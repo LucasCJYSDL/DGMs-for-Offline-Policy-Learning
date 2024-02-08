@@ -52,7 +52,7 @@ This repository provides a survey on the applications of deep generative models 
 * [AAAI 2022] [Offine Reinforcement Learning as Anti-exploration](https://ojs.aaai.org/index.php/AAAI/article/view/20783)
 * [Neurips 2021] [Offline Reinforcement Learning with Reverse Model-based Imagination](https://proceedings.neurips.cc/paper_files/paper/2021/file/f5e647292cc4e1064968ca62bebe7e47-Paper.pdf)
 * [IEEE TCDS 2023] [UAC: Offline Reinforcement Learning with Uncertain Action Constraint](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10158415&casa_token=QdkJztwbbyMAAAAA:jDUKJnQo7qZ-emdCrmWzAglYnhH3E68yXGVmY5-dFhv2LPGbr46O7Y2pM9Mic8y-gFpvXijm)
-* [ICLR 2021] [OPAL: OFFLINE PRIMITIVE DISCOVERY FOR ACCELERATING OFFLINE REINFORCEMENT LEARNING](https://openreview.net/pdf?id=V69LGwJ0lIN)
+* [ICLR 2021] [Opal: Offline primitive discovery for accelerating offline reinforcement learning](https://openreview.net/pdf?id=V69LGwJ0lIN)
 * [Neurips 2022] [Supported Policy Optimization for Offline Reinforcement Learning](https://proceedings.neurips.cc/paper_files/paper/2022/file/caa934a507a952698d54efb24845fc4b-Paper-Conference.pdf)
 * [ACML 2021] [BRAC+: Improved Behavior Regularized Actor Critic for Offline Reinforcement Learning](https://proceedings.mlr.press/v157/zhang21a/zhang21a.pdf)
 * [ArXiv 2023] [On the Importance of the Policy Structure in Offline Reinforcement Learning](https://openreview.net/pdf?id=EJPWfoJRba)
