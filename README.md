@@ -1,4 +1,4 @@
-# GM-for-offline-policy-learning-a-survey
+# Deep Generative Models for Offline Policy Learning
 This repository provides a survey on the applications of deep generative models for offline reinforcement learning and imitation learning. We cover multiple deep generative models, including VAEs, GANs, Normalizing Flows, Transformers, and Diffusion Models.
 
 ### 1. Variational Auto-Encoders (VAEs)
