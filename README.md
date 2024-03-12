@@ -1,6 +1,17 @@
 # Deep Generative Models for Offline Reinforcement Learning and Imitation Learning
 This repository provides a survey on the applications of deep generative models for offline reinforcement learning and imitation learning. We cover multiple deep generative models, including VAEs, GANs, Normalizing Flows, Transformers, and Diffusion Models.
 
+### The paper is available at: [https://arxiv.org/pdf/2402.13777.pdf](https://arxiv.org/pdf/2402.13777.pdf)
+Please consider citing this paper:
+```bash
+@article{chen2024deep,
+  title={Deep Generative Models for Offline Policy Learning: Tutorial, Survey, and Perspectives on Future Directions},
+  author={Chen, Jiayu and Ganguly, Bhargav and Xu, Yang and Mei, Yongsheng and Lan, Tian and Aggarwal, Vaneet},
+  journal={arXiv preprint arXiv:2402.13777},
+  year={2024}
+}
+```
+
 ### 1. Variational Auto-Encoders (VAEs)
 
 ##### 1.1 Background Survey and General Knowledge Papers
