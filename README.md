@@ -1,7 +1,8 @@
 # Deep Generative Models for Offline Reinforcement Learning and Imitation Learning
 This repository provides a survey on the applications of deep generative models for offline reinforcement learning and imitation learning. We cover multiple deep generative models, including VAEs, GANs, Normalizing Flows, Transformers, and Diffusion Models.
 
-### The paper is available at: [https://arxiv.org/pdf/2402.13777.pdf](https://arxiv.org/pdf/2402.13777.pdf)
+### The paper has been accepted in TMLR with a Survey Certification: [https://openreview.net/pdf?id=Mm2cMDl9r5](https://openreview.net/pdf?id=Mm2cMDl9r5)
+The content of the paper has been significantly improved during the submission process compared to the initial version.
 Please consider citing this paper:
 ```bash
 @article{chen2024deep,
