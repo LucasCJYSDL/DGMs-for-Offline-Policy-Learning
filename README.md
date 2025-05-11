@@ -5,11 +5,15 @@ This repository provides a survey on the applications of deep generative models 
 The content of the paper has been significantly improved during the submission process compared to the initial version.
 Please consider citing this paper:
 ```bash
-@article{chen2024deep,
-  title={Deep Generative Models for Offline Policy Learning: Tutorial, Survey, and Perspectives on Future Directions},
-  author={Chen, Jiayu and Ganguly, Bhargav and Xu, Yang and Mei, Yongsheng and Lan, Tian and Aggarwal, Vaneet},
-  journal={arXiv preprint arXiv:2402.13777},
-  year={2024}
+@article{
+chen2024deep,
+title={Deep Generative Models for Offline Policy Learning: Tutorial, Survey, and Perspectives on Future Directions},
+author={Jiayu Chen and Bhargav Ganguly and Yang Xu and Yongsheng Mei and Tian Lan and Vaneet Aggarwal},
+journal={Transactions on Machine Learning Research},
+issn={2835-8856},
+year={2024},
+url={https://openreview.net/forum?id=Mm2cMDl9r5},
+note={Survey Certification}
 }
 ```
 
